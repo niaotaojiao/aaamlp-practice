@@ -140,3 +140,5 @@ models/
 *.pkl
 *.pth
 *.bin
+
+data/
